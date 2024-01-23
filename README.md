@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Priyanshu Agrawal, a passionate self-taught full-stack web developer. I love the field of computer science and enjoy development every day.
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning React Js
+- Do reach me by [email](priyanshu100agrawal@gmail.com) , [Linkedin](https://www.linkedin.com/in/priyanshuagr/)
+
 <!--
 **priyanshu-techie/priyanshu-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
