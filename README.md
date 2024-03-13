@@ -51,9 +51,12 @@ I am Priyanshu Agrawal, a passionate self-taught full-stack web developer. I lov
   <img src="https://skillicons.dev/icons?i=nextjs"  height="40" alt="nextjs logo"  />
 </div>
 
-<h2 align="left">Database </h2>
+<h2 align="left">Database and tools</h2>
 <div align="left">
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width=50/>
+  <img width="12" />
 </div>
 
 <h2 align="left">Other Tools ⚙️</h2>
