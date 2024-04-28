@@ -8,7 +8,7 @@ I am Priyanshu Agrawal, a passionate self-taught full-stack web developer. I lov
 <div>
 
 - 🔭 I’m currently working at Corplustech Pvt Ltd, Ranchi.
-- 🌱 Working as a Junior Backend Developer.
+- 🌱 Working as a Full Stack Developer.
 - 💬 Ask me about Web Developemet
 - 📝 I regularly write articles on [HashNode.com](https://priyanshu-agrawal.hashnode.dev)
 </div>
